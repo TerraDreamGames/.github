@@ -1,7 +1,7 @@
-## Welcome to Interactive Games! 👋
+## Welcome to Terra Games! 👋
 ![newBanner](https://github.com/iGames-gg/.github/assets/95576295/fd4ef123-0172-4f86-a935-4e7f203a0a79)
 
-[iGames](https://interactivegames.xyz), we are a game development community. Our goal is to create the most innovative, interactive, and fun-to-play experiences on the Roblox platform. We are based around the Carribean and the United States. Together, with our team of talented developers and creators **iGames** is looking forward to an adventureus future.
+[Terra Games](https://terradream.games), we are a game development community. Our goal is to create the most innovative, interactive, and fun-to-play experiences on the Roblox platform. We are based around the Carribean and the United States. Together, with our team of talented developers and creators **Terra Games** is looking forward to an adventureus future.
 
 We are an aspiring, modest studio that is continuously expanding. Although we acknowledge our imperfections, our daily commitment is to establish the kind of studio we have always dreamt of working for. Our vision is to create remarkable, AAA-scale experiences infused with an independent spirit, nurtured by individuals who lead fulfilling and balanced lives.
 <!--
