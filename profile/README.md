@@ -1,5 +1,5 @@
 ## Welcome to Terra Games! 👋
-![newBanner]([https://github.com/iGames-gg/.github/assets/95576295/fd4ef123-0172-4f86-a935-4e7f203a0a79](https://media.discordapp.net/attachments/1199911823944724570/1206305029808726126/terraGamesBanner.jpg?ex=65db861b&is=65c9111b&hm=2c6ef417a67705b8295be13f00426415b3691eb217ecab5b1148edfbce8d4ccb&=&format=webp&width=1439&height=431))
+![newBanner](https://media.discordapp.net/attachments/1199911823944724570/1206305029808726126/terraGamesBanner.jpg?ex=65db861b&is=65c9111b&hm=2c6ef417a67705b8295be13f00426415b3691eb217ecab5b1148edfbce8d4ccb&=&format=webp&width=1439&height=431)
 
 [Terra Games](https://terradream.games), we are a game development community. Our goal is to create the most innovative, interactive, and fun-to-play experiences on the Roblox platform. We are based around the Carribean and the United States. Together, with our team of talented developers and creators **Terra Games** is looking forward to an adventureus future.
 
