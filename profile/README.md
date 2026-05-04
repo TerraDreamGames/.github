@@ -1,7 +1,7 @@
-## Welcome to Terra Games! 👋
+## Welcome to Terra Dream! 👋
 ![newBanner](https://dexxterdax.terradream.games/_next/image?url=%2Fimages%2Flinks%2FTerraDreamBackground.png&w=3840&q=75)
 
-[Terra Games](https://terradream.games), we are a game development community. Our goal is to create the most innovative, interactive, and fun-to-play experiences on the Roblox platform. We are based around the Carribean and the United States. Together, with our team of talented developers and creators **Terra Games** is looking forward to an adventureus future.
+[Terra Dream](https://terradream.games), we are a game development community. Our goal is to create the most innovative, interactive, and fun-to-play experiences on the Roblox platform. We are based around the Carribean and the United States. Together, with our team of talented developers and creators **Terra Dream** is looking forward to an adventureus future.
 
 We are an aspiring, modest studio that is continuously expanding. Although we acknowledge our imperfections, our daily commitment is to establish the kind of studio we have always dreamt of working for. Our vision is to create remarkable, AAA-scale experiences infused with an independent spirit, nurtured by individuals who lead fulfilling and balanced lives.
 <!--
